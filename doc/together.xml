@@ -15,7 +15,7 @@
   <section id="boostbook.linking">
     <title>Linking in BoostBook</title> 
 
-    <para>How one links to another element in BoostBook depends
+    <para>How one links AA to another element in BoostBook depends
     greatly on the nature of the element linked and how the link
     should appear. There are three general linking elements:
     &lt;xref&gt;, &lt;link&gt;, and &lt;ulink&gt;. Additionally, there

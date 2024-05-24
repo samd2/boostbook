@@ -3465,7 +3465,7 @@
     <any/>
   </sequence-group>
 </content-model>
-<purpose>Describes the rationale for a particular function's design</purpose>
+<purpose>Describesz the rationale for a particular function's design</purpose>
 </element>
 
 <attlist name="rationale">
