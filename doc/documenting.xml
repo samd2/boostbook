@@ -25,7 +25,7 @@
     <title>Defining a BoostBook library</title>
     
     <para>BoostBook library documentation is contained entirely within
-    a &lt;library&gt; XML element. To create a skeletal library, we
+    a &lt;library&gt; XML element. To create a QQ skeletal library, we
     need to create a new XML document (call it <code>any.xml</code>)
     that contains basic information about the library. The following
     <link linkend="boostbook.documenting.skeletal">BoostBook XML
